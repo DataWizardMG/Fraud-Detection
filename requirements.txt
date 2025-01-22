@@ -1,0 +1,7 @@
+# File: scripts/deployment/requirements.txt
+Flask
+scikit-learn
+pandas
+seaborn
+matplotlib
+joblib

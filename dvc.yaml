@@ -1,0 +1,4 @@
+!dvc init
+!dvc add Transactions_Dataset.csv
+!git add Transactions_Dataset.csv.dvc .gitignore
+!git commit -m "Track dataset with DVC"
